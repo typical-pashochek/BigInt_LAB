@@ -1,0 +1,3 @@
+﻿  _LAB_6.c
+D:\Projects_in_c_comp\LAB_6\_LAB_6.c(39,14): warning C4013: isdigit: нет определения; предполагается "extern" с возвратом типа "int"
+  LAB_6.vcxproj -> D:\Projects_in_c_comp\LAB_6\Debug\LAB_6.exe
